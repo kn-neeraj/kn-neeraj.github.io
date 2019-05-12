@@ -1,23 +1,12 @@
-# This is the data for my blog
+# Resouces for Learning Product Management.
 
-It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
-into a static site whenever I push this repository to GitHub.
+I created this site to help people who are transitioning to Product Management roles and get bogged down by tonnes of resources thrown at them. In this website I have added top resources articles, books and videos (to the best of my knowledge) which are categorised by skills expected from a Product Manager. It also contains PM job interview resources.
 
-I was tired of having my blog posts end up in a database off on some remote
-server. That is backwards. I've lost valuable posts that way. I want to author
-my posts locally in Textile or Markdown. My blog should be easily stylable and
-customizable any way I please. It should take care of creating a feed for me.
-And most of all, my site should be stored on GitHub so that I never lose data
-again.
+Hope it helps aspiring PMs (including me!)
 
-## License
 
-The following directories and their contents are Copyright Tom Preston-Werner.
-You may not reuse anything therein without my permission:
 
-* \_posts/
-* images/
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and
-CSS as you please. If you do use them, a link back to
-http://github.com/mojombo/jekyll would be appreciated, but is not required.
+Attribution:
+Theme of this blog is taken from - 
+http://github.com/mojombo/jekyll
